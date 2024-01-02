@@ -1,2 +1,2 @@
 # Rudy127CustomMusic
-custom music uploads for Super Mario 127 levels
+Custom music uploads (and thumbnails) for Super Mario 127 levels.
